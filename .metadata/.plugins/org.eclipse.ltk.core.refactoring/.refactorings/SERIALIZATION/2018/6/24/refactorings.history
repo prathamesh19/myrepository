@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.prathamesh.serialization_demo&apos; to &apos;serializationdemo/src&apos;&#x0D;&#x0A;- Original project: &apos;SERIALIZATION&apos;&#x0D;&#x0A;- Destination element: &apos;serializationdemo/src&apos;&#x0D;&#x0A;- Original element: &apos;SERIALIZATION/src/com.prathamesh.serialization_demo&apos;" description="Copy package" destination="=serializationdemo/src" element1="/src&lt;com.prathamesh.serialization_demo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1529172586672" version="1.0"/>
+</session>

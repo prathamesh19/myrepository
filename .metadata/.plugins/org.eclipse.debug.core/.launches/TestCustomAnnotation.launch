@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CustomAnnotationDemo/src/main/java/com/prathamesh/customannotationdemo/CustomAnnotationDemo/TestCustomAnnotation.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.prathamesh.customannotationdemo.CustomAnnotationDemo.TestCustomAnnotation"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CustomAnnotationDemo"/>
+</launchConfiguration>

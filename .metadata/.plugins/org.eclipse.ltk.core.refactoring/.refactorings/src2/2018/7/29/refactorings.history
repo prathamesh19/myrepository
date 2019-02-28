@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.hsqldb.cfg.xml&apos; to &apos;hibernatecrud/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;src2&apos;&#x0D;&#x0A;- Destination element: &apos;hibernatecrud/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;hibernate.hsqldb.cfg.xml&apos;" description="Copy file" destination="=hibernatecrud/src\/main\/java" element1="src/main/java/hibernate.hsqldb.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1531981339908" units="0" version="1.0"/>
+</session>

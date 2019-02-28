@@ -1,0 +1,8 @@
+com\prathamesh\bean\Book.class
+com\prathamesh\utilities\Utilities.class
+com\prathamesh\daoimpl\DaoImpl.class
+com\prathamesh\test\logic\TestClass.class
+com\prathamesh\maven_jdbc_crud\App.class
+com\prathamesh\service\Service.class
+com\prathamesh\serviceimpl\ServiceImpl.class
+com\prathamesh\dao\Dao.class

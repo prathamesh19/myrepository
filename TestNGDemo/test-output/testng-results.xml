@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2018-07-25T14:38:17Z" finished-at="2018-07-25T14:38:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2018-07-25T14:38:17Z" finished-at="2018-07-25T14:38:17Z">
+      <class name="com.prathamesh.test.TestngAnnotation">
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:com.prathamesh.test.TestngAnnotation@1e84876]" name="testCase3" is-config="true" duration-ms="16" started-at="2018-07-25T20:08:17Z" finished-at="2018-07-25T20:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.prathamesh.test.TestngAnnotation@1e84876]" name="testCase2" duration-ms="16" started-at="2018-07-25T20:08:17Z" finished-at="2018-07-25T20:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- com.prathamesh.test.TestngAnnotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

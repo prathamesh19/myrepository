@@ -1,0 +1,3 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>changed commit</message>\r\n<message>first commit w/o changes</message>\r\n<message>first hibernate commit</message>\r\n<message>My first hibernate commit</message>\r\n<message>commit committeddddd</message>\r\n<message>commit second text</message>\r\n<message>second commit</message>\r\n</messages>
+eclipse.preferences.version=1
+show_rebase_confirm=false
